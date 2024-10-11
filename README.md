@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React, Tailwind CSS, Vue.js<br>🎯 Goals: To be a full-stack developer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React, Tailwind CSS, Vue.js<br>🎯 Goals: To be a full-stack developer<br>💼 Currently working on: I'm currently working on a Hungarian learning website called LumoLearn</p>
 
 ###
 
